@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      type="image/x-icon"
+      href="./assets/img/person/luffyIcon.png" />
+    <title>Welcome</title>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;1,400;1,600&family=Pacifico&display=swap");
+      * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        height: 100vh;
+        padding: 0 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
+      }
+
+      .intro {
+        text-align: center;
+        font-size: 36px;
+        color: rgb(71, 69, 69);
+        font-family: "Pacifico", cursive;
+        transition: opacity 3s ease-out;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="intro"></div>
+    <script>
+      const intro = document.querySelector(".intro");
+      const introText =
+        "Chào mừng các hải tặc đến với thế giới One Piece! Hãy chuẩn bị sẵn sàng để trở thành bậc thầy tâm lí học thông qua nguồn cảm hứng đến từ vùng biển Grand Line!";
+
+      var delay = 40;
+
+      async function run() {
+        for (let i = 1; i <= introText.length; i++) {
+          if (i == 49) delay = 3000;
+          else if (i > 49) delay = 35;
+
+          if (i == introText.length) {
+            setTimeout(() => {
+              intro.style.opacity = "0";
+            }, 4000);
+            setTimeout(() => {
+              window.location = "./index.html";
+            }, 6980);
+          }
+          intro.innerHTML = introText.substring(0, i);
+          await Sleep(delay);
+        }
+      }
+
+      async function Sleep(delay) {
+        return new Promise((resolve) => setTimeout(resolve, delay));
+      }
+      run();
+    </script>
+  </body>
+</html>

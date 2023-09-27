@@ -1,0 +1,112 @@
+[
+    {
+        "question": "Phẩm chất ý chí cho phép con người quyết định và thực hiện hành động theo quan điểm và niềm tin của mình là:",
+        "answers": [
+          "Tính kiên trì",
+          "Tính độc lập",
+          "Tính mục đích",
+          "Tính quyết đoán"
+        ],
+        "correctAnswer": "Tính độc lập"
+      },
+      {
+        "question": "Đặc điểm nào dưới đây không thuộc về thói quen?",
+        "answers": [
+          "Bền vững, ăn sâu vào nếp sống",
+          "Ít gắn với tình huống",
+          "Mang tính nhu cầu, nếp sống",
+          "Được đánh giá về mặt đạo đức"
+        ],
+        "correctAnswer": "Ít gắn với tình huống"
+      },
+      {
+        "question": "Hành động lúc đầu vốn là hành vi, hành động ý chí nhưng do được lặp đi lặp lại nhiều lần hay do luyện tập mà trở nên thành thạo không cần có sự kiểm soát trực tiếp của ý thức gọi là gì?",
+        "answers": [
+          "Kỹ xảo",
+          "Thói quen",
+          "Hành động tự động hoá",
+          "Tự động hoá"
+        ],
+        "correctAnswer": "Hành động tự động hoá"
+      },
+      { 
+        "question": "lucky",
+        "answers": [],
+        "correctAnswer": ""
+      },
+      {
+        "question": "Khả năng giúp con người hoàn thành những hành vi đã định nhằm đạt được mục đích đã được đặt ra, khả năng điều hoà và điều khiển có ý thức hành vi của bản thân được gọi là?",
+        "answers": [
+          "Kiên trì",
+          "Chí khí",
+          "Ý chí",
+          "Hành vi ý chí"
+        ],
+        "correctAnswer": "Ý chí"
+      },
+      {
+        "question": "Là một hiện tượng tâm lí, ý chí phản ánh:",
+        "answers": [
+          "Bản thân hành động",
+          "Phương thức hành động",
+          "Mục đích hành động",
+          "Năng lực hành động"
+        ],
+        "correctAnswer": "Mục đích hành động"
+      },
+      {
+        "question": "Là hành động tự động hoá, mang tính chất nhu cầu, nếp sống của con người, được hình thành từ nhiều con đường khác nhau, có tính bền vững cao, khó thay đổi, sửa chữa, được đánh giá về mặt đạo đức được gọi là gì?",
+        "answers": [
+          "Kỹ xảo",
+          "Thói quen",
+          "Hành động tự động hóa",
+          "Tự động hoá"
+        ],
+        "correctAnswer": "Thói quen"
+      },
+      { 
+        "question": "failed",
+        "answers": [],
+        "correctAnswer": ""
+      },
+      {
+        "question": "Giá trị chân chính của ý chí thể hiện ở:",
+        "answers": [
+          "Nội dung đạo đức",
+          "Cường độ ý chí",
+          "Tính ý thức",
+          "Tính tự giác"
+        ],
+        "correctAnswer": "Nội dung đạo đức"
+      },
+      {
+        "question": "Hành động ý chí mang những đặc điểm:<br>1. Mới mẻ, khác thường.<br> 2. Chính xác, hợp lý.<br> 3. Có mục đích.<br> 4. Có sự nỗ lực khắc phục khó khăn.<br> 5. Có sự lựa chọn phương tiện và biện pháp hành động.<br>Phương án đúng là:",
+        "answers": [
+          "1, 2, 4",
+          "2, 3, 5",
+          "3, 4, 5",
+          "2, 3, 4"
+        ],
+        "correctAnswer": "3, 4, 5"
+      },
+      {
+        "question": "Trong công tác giáo dục, để mang lại hiệu quả cao cần thường xuyên thay đổi phương pháp cho thích hợp. Biện pháp này xuất phát từ quy luật nào dưới đây của kỹ xảo?",
+        "answers": [
+          "Quy luật tiến bộ không đồng đều",
+          "Quy luật 'đỉnh' của phương pháp luyện tập",
+          "Quy luật tác động qua lại giữa kỹ xảo cũ và kỹ xảo mới",
+          "Quy luật dập tắt kỹ xảo"
+        ],
+        "correctAnswer": "Quy luật 'đỉnh' của phương pháp luyện tập"
+      },
+      {
+        "question": "Những đặc điểm đặc trưng của hành động kĩ xảo là:<br>1. Mang tính chất kĩ thuật thuần tuý.<br>2. Luôn gắn với một tình huống xác định.<br>3. Được đánh giá về mặt kĩ thuật thao tác.<br>4. Có tính bền vững cao.<br>5. Được hình thành chủ yếu bằng luyện tập có mục đích, có hệ thống.<br>Phương án đúng là:",
+        "answers": [
+          "2, 4, 5",
+          "1, 3, 4",
+          "1, 3, 5",
+          "1, 2, 5"
+        ],
+        "correctAnswer": "1, 3, 5"
+      }   
+]
